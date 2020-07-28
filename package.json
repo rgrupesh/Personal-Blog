@@ -5,7 +5,7 @@
   "description": "gatsby-starter-chronoblog-hacker",
   "keywords": [],
   "license": "MIT",
-  "author": "Ivan Ganev <ganevio92@gmail.com>",
+  "author": "Rupesh Gelal",
   "scripts": {
     "build": "gatsby build",
     "clean": "gatsby clean",
