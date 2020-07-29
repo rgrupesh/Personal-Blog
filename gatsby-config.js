@@ -3,7 +3,7 @@ module.exports = {
     siteTitle: 'Personal Blog',
     siteDescription: 'Personal Blog by Rupesh Gelal',
     siteImage: '/banner.png', // main image of the site for metadata
-    siteUrl: 'https://chronoblog-hacker.now.sh/',
+    siteUrl: 'https://rupeshgelal.com.np/',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
