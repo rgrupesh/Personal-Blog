@@ -2,16 +2,16 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Personal Blog',
     siteDescription: 'Personal Blog by Rupesh Gelal',
-    siteImage: '/banner.png', // main image of the site for metadata
+    siteImage: '/banner.png',
     siteUrl: 'https://rupeshgelal.com.np/',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Rupesh Gelal', // for example - 'Ivan Ganev'
-    authorDescription: 'Machine Learning and Web Dev ', // short text about the author
+    author: 'Rupesh Gelal',
+    authorDescription: 'Machine Learning and Web Dev ',
     avatar: '/IMG2.JPG',
-    twitterSite: '', // website account on twitter
-    twitterCreator: '', // creator account on twitter
+    twitterSite: '',
+    twitterCreator: '',
     social: [
       {
         icon: `github`,
