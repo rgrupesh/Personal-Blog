@@ -55,7 +55,7 @@ Same as BERT, XLNet currently has two variant.
 
 <h4>Processing and Pre-training</h4>
 
- Permutation Language Modeling is the concept of training bi-directional AR model on all permutation of words in a sentence. XLNet makes use of PLM to achieve state-of-the-art(SOTA) results. Besides, XLNet is based on the [Transformer-XL](https://arxiv.org/pdf/1901.02860.pdf) which it uses as the main pretraining framework. It adopts the method like segment recurrent mechanism and relative encoding from Transformer-XL model.
+ Permutation Language Modeling(PLM) is the concept of training bi-directional AR model on all permutation of words in a sentence. XLNet makes use of PLM to achieve state-of-the-art(SOTA) results. Besides, XLNet is based on the [Transformer-XL](https://arxiv.org/pdf/1901.02860.pdf) which it uses as the main pretraining framework. It adopts the method like segment recurrent mechanism and relative encoding from Transformer-XL model.
 
 
 ![](/xlnet.png)
