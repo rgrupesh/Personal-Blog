@@ -2,7 +2,7 @@
 title: BERT vs. XLNet
 cover: ./language.jpg
 date: 2020-08-10
-tags: [post,article,Deep Learning, NLP, Transformers, XLNet, BERT, Transfer Learning]
+tags: [post,article,Deep Learning, NLP, Transformers, XLNet, BERT, Transfer Learning, SOTA, Language Model, ]
 ---
 
 [Transformer](https://arxiv.org/pdf/1706.03762.pdf) based model has been key to recent advancement in the field of Natural Language Processing. The reason behind this success is technique called [Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning#:~:text=Transfer%20learning%20(TL)%20is%20a,when%20trying%20to%20recognize%20trucks.). Although computer vision practitioners are well-versed with this technique, it is relatively new to the field of NLP. In Transfer Learning, a model (in our case, a Transformer model) is pre-trained on a huge dataset using an unsupervised pre-training objective. This same model is then fine-tuned on the actual task. This approach works exceptionally well, even if you have as small as 500–1000 training samples. 
