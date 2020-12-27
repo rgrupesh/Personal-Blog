@@ -9,7 +9,7 @@ module.exports = {
     ogLanguage: `en_US`,
     author: 'Rupesh Gelal',
     authorDescription: 'Machine Learning and Web Dev ',
-    avatar: '/IMG2.JPG',
+    avatar: '/IMG3.JPG',
     twitterSite: '',
     twitterCreator: '',
     social: [
