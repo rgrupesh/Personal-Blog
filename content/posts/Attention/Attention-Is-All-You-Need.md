@@ -14,6 +14,8 @@ tags:
     Deep Learning,
     post,
     article,
+    Attention,
+    multi-headed,
   ]
 ---
 
@@ -35,7 +37,7 @@ The first step is to create three addition vectors named as key, query, and valu
 After that, we calculate the score by taking the dot product of query1*key1, query1*key2, and so on. We have a key vector of all input words since inputs are given parallelly.
 Also, we divide each score by sqrt of the dimension of a key vector which is 8, as the dimension of a key vector discussed in the paper is 64.
 Further, the result is passed through softmax operation so all the scores are positive and add up to 1.
-Fifth, the output of softmax is multiplied with the value vector(v1).
+The output of softmax is multiplied with the value vector(v1).
 Then, the result is summed up to produce the self-attention output of the first word( Say Z1). This Z1 is sent to feed-forward network. This process is repeated for every input word.
 
 ![](/q-k-v.png)
