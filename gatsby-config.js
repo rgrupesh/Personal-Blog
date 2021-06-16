@@ -8,7 +8,7 @@ module.exports = {
     siteLanguage: 'en',
     ogLanguage: `en_US`,
     author: 'Rupesh Gelal',
-    authorDescription: 'Machine Learning and Web Dev ',
+    authorDescription: 'Machine Learning, Web Dev, and Blockchain ',
     avatar: '/IMG4.jpeg',
     twitterSite: '',
     twitterCreator: '',
